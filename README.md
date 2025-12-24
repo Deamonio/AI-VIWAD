@@ -20,7 +20,7 @@
 
 ### 🎬 작동 영상
 
-[![AI-VIWAD Demo](https://img.youtube.com/vi/XwjiE8r5t54/maxresdefault.jpg)](https://youtu.be/XwjiE8r5t54)
+[![AI-VIWAD Demo](https://img.youtube.com/vi/JBitoZGlmSs/maxresdefault.jpg)](https://www.youtube.com/watch?v=JBitoZGlmSs)
 
 **▶️ 클릭하여 시스템 작동 영상 보기**
 
@@ -30,7 +30,7 @@
 
 ### 📸 System Preview
 
-![AI-VIWAD](profile_image.png)
+![AI-VIWAD](README%20asses/profile_image.png)
 
 *AI-VIWAD 시스템 - 맞춤 제작 신발 + 웹 인터페이스*
 
