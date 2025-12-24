@@ -6,8 +6,8 @@
 
 *AI 기반 시각장애인 보행 보조 장치*
 
-![Python](https://img.shields.io/badge/Python-95. 1%25-3776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-1.2%25-E34F26? style=flat&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/Python-95.1%25-3776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-1.2%25-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1.1%25-1572B6?style=flat&logo=css3&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-C++-00979D?style=flat&logo=arduino&logoColor=white)
 
@@ -725,7 +725,7 @@ def generate_frames():
 
 ### 프로젝트 관리자:  Deamonio
 
-[![Email](https://img.shields.io/badge/Email-hyun0810d@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyun0810d@gmail. com)
+[![Email](https://img.shields.io/badge/Email-hyun0810d@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hyun0810d@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Deamonio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Deamonio)
 
 **프로젝트 링크**:  [https://github.com/Deamonio/AI-VIWAD](https://github.com/Deamonio/AI-VIWAD)
